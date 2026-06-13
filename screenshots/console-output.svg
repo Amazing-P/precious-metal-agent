@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="720" viewBox="0 0 1180 720" role="img" aria-label="Console output screenshot for Precious Metals AI Agent">
+  <rect width="1180" height="720" rx="12" fill="#0d1117"/>
+  <rect x="0" y="0" width="1180" height="46" rx="12" fill="#161b22"/>
+  <circle cx="24" cy="23" r="7" fill="#ff5f56"/>
+  <circle cx="46" cy="23" r="7" fill="#ffbd2e"/>
+  <circle cx="68" cy="23" r="7" fill="#27c93f"/>
+  <text x="92" y="29" fill="#8b949e" font-family="Consolas, monospace" font-size="15">python main.py</text>
+  <g font-family="Consolas, monospace" font-size="17" fill="#c9d1d9">
+    <text x="28" y="82">=== PRECIOUS METALS AI AGENT ===</text>
+    <text x="28" y="122">Rows inserted into database: 7</text>
+    <text x="28" y="162">=== ANALYSIS RESULTS ===</text>
+    <text x="28" y="202">Gold:</text>
+    <text x="58" y="230">VWAP: 2348.00</text>
+    <text x="58" y="258">Moving average: [None, 2351.25, 2353.5, 2354.0, 2276.5]</text>
+    <text x="58" y="286">Anomalies: 2 stressed gold price events detected</text>
+    <text x="58" y="314">Spread: avg 1.60, max 4.00, spread_pct 0.0689%</text>
+    <text x="58" y="342">Trend: bearish</text>
+    <text x="28" y="390">Silver:</text>
+    <text x="58" y="418">VWAP: 30.30</text>
+    <text x="58" y="446">Moving average: [None, 30.3]</text>
+    <text x="58" y="474">Anomalies: none</text>
+    <text x="58" y="502">Spread: avg 0.10, spread_pct 0.3300%</text>
+    <text x="58" y="530">Trend: bullish</text>
+    <text x="28" y="578">=== RISK ASSESSMENT ===</text>
+    <text x="58" y="606">Gold: medium risk, score 55/100, signal: trade carefully</text>
+    <text x="58" y="634">Silver: low risk, score 0/100, signal: normal trading conditions</text>
+    <text x="28" y="682">Agent: Recommendation for gold: WAIT. Trend is bearish, risk is medium, VWAP is 2348.00.</text>
+  </g>
+</svg>
